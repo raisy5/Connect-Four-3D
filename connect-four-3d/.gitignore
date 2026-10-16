@@ -1,0 +1,12 @@
+# Build outputs
+*.o
+p4
+exe1
+exe2
+exe3
+exeGR4
+
+# IDE
+.metadata/
+.vscode/
+.vs/
